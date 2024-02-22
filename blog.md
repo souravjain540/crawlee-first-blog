@@ -1,5 +1,8 @@
-# Launching Crawlee Blog: your Node.js resource hub for web scraping and automation
+# Launching Crawlee Blog
 
+Your Node.js resource hub for web scraping and automation
+
+![image](https://github.com/souravjain540/crawlee-first-blog/assets/53312820/3dbfbb04-1205-4218-8433-37ac5a3cee1d)
 
 Hey, crawling masters! 
 
