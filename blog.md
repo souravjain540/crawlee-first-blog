@@ -10,18 +10,17 @@ We launched Crawlee, the successor to our Apify SDK, in [August 2022](https://bl
 Since then, our dev community has grown exponentially. I’m proud to tell you that we have **over 11,500 Stars on GitHub**, over **6,000 community members on our Discord**, and over **125,000 downloads monthly on npm**. We’re now the most popular web scraping and automation library for Node.js developers 👏
 
 ## Changes in Crawlee since the launch
-
 Crawlee has progressively evolved with the introduction of key features to enhance web scraping and automation: 
 
-- [v3.1](https://github.com/apify/crawlee/compare/v3.0.4...v3.1.0) added an error tracker for analyzing and summarizing failed requests. 
+- [v3.1](https://github.com/apify/crawlee/releases/tag/v3.1.0) added an error tracker for analyzing and summarizing failed requests. 
 
-- The [v3.3](https://github.com/apify/crawlee/compare/v3.2.2...v3.3.0) update brought an `exclude` option to the `enqueueLinks` helper and integrated status messages. This improved usability on the Apify platform with automatic summary updates in the console UI. 
+- The [v3.3](https://github.com/apify/crawlee/releases/tag/v3.3.0) update brought an `exclude` option to the `enqueueLinks` helper and integrated status messages. This improved usability on the Apify platform with automatic summary updates in the console UI. 
 
-- [v3.4](https://github.com/apify/crawlee/compare/v3.3.3...v3.4.0) introduced the` linkedom` crawler, offering a new parsing option. 
+- [v3.4](https://github.com/apify/crawlee/releases/tag/v3.4.0) introduced the` linkedom` crawler, offering a new parsing option. 
 
-- The [v3.5](https://github.com/apify/crawlee/compare/v3.4.2...v3.5.0) update optimized link enqueuing for efficiency.
+- The [v3.5](https://github.com/apify/crawlee/releases/tag/v3.5.0) update optimized link enqueuing for efficiency.
 
-- [v3.6](https://github.com/apify/crawlee/compare/v3.5.8...v3.6.0) launched experimental support for a new request queue API, enabling parallel execution and improved scalability for multiple scrapers working concurrently.
+- [v3.6](https://github.com/apify/crawlee/releases/tag/v3.6.0) launched experimental support for a new request queue API, enabling parallel execution and improved scalability for multiple scrapers working concurrently.
 
 All of this marked significant strides in making web scraping more efficient and robust.
 
@@ -30,7 +29,7 @@ All of this marked significant strides in making web scraping more efficient and
 
 The Crawlee team is actively developing an adaptive crawling feature to revolutionize how Crawlee interacts with and navigates through websites. 
 
-We plan to bring experimental support for the new adaptive crawler type in `v3.8` later this week.
+We just launched [v3.8](https://github.com/apify/crawlee/releases/tag/v3.8.0) with experimental support for the new adaptive crawler type.
 
 ## Support us on GitHub.
 
